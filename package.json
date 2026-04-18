@@ -1,0 +1,13 @@
+{
+  "name": "pdf-to-cbt-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:server": "cd CBT/server && npm run dev",
+    "start:client": "cd CBT/client && npm start",
+    "dev": "concurrently \"npm run start:server\" \"npm run start:client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
