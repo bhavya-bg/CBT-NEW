@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which protocol is used for secure web communication?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "HTTPS",
+      "D": "SMTP"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "React is primarily used for building what?",
+    "options": {
+      "A": "Databases",
+      "B": "User interfaces",
+      "C": "Operating systems",
+      "D": "Drivers"
+    },
+    "correct": "B"
+  }
+]
